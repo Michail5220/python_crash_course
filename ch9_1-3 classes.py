@@ -65,6 +65,7 @@ new_user.describe_user()
 # other_user.describe_user()
 new_user.increment_login_attempts()
 new_user.increment_login_attempts()
+new_user.increment_login_attempts()
 # new_user.reset_login_attempts()
 print(new_user.login_attempts)
         
