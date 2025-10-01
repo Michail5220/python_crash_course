@@ -1,0 +1,5 @@
+In Python you can write into and read files.
+In Python you can model a real world using classes.
+In Python you can create dictionaries to link names with values.
+In Python you can create lists.
+In Python you can import modules with classes and functions.
